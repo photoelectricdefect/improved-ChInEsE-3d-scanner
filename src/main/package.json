@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@splidejs/splide": "^2.4.21",
-    "electron": "10.0.1",
+    "electron": "10.2.0",
     "electron-rebuild": "^2.3.4",
     "install": "^0.13.0",
     "jquery": "^3.5.1",
